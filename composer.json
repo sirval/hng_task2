@@ -1,0 +1,6 @@
+{
+	"name":"sirval/hng-stage2",
+	"require": {
+		"monolog/monolog":"1.0.*"
+	}
+}
