@@ -1,4 +1,4 @@
-<?php
+		<?php
 if (isset($_POST['contactSubmit'])) 
 {
 	$regNum = stripslashes($_POST['contactName']);
@@ -92,11 +92,10 @@ $dev = 'Ohuka Valentine';
    	</div> <!-- /intro-content --> 
 
    	<ul class="intro-social">        
-         <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-         <li><a href="#"><i class="fa fa-behance"></i></a></li>
-         <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-         <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-         <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+         <li><a href="https://zuri.team" title="Zuri Official Website"><img src="./images/zuri.png" height="30px" width="30px"></a></li>
+         <li><a href="https://hng.tech" title="HNG Official Website"><img src="./images/hng.png"  height="30px" width="30px"></a></li>
+         <li><a href="https://ingressive.org" title="I4G Official Website"><img src="./images/i4g.png"  height="30px" width="30px"></a></li>
+         
       </ul> <!-- /intro-social -->      	
 
    </section> <!-- /intro -->
